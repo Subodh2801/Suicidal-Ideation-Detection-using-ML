@@ -81,12 +81,6 @@ Notebook: install Jupyter if you need it (pip install notebook), then:
 
     jupyter notebook SuicidalDetection.ipynb
 
-## If the PDF was ever committed by mistake
-
-    git rm --cached Final_Project_Report.pdf
-
-Then commit, so Git stops tracking it while the file can still sit on your drive.
-
 - Labels and text: Suicide Watch dataset on Kaggle (see link above)
 - Code libraries: Flask, NumPy, pandas, scikit-learn, XGBoost, NLTK, sklearn-genetic, matplotlib, seaborn, joblib, and whatever pip pulls in
 - UI skin: stock HTML/CSS/JS under static/ from the template pack I started from
