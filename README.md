@@ -10,7 +10,6 @@ I wrote the Python, the wiring, and this readme. The UI skin under static/ is in
 
 - Name: Sai Subodh
 - Email: saisubodh2812004@gmail.com
-- GitHub: https://github.com/saisubodh2812004 (update the same link in templates if your username differs)
 - What it is for: learning, demos, portfolio. Not for clinics, hiring, or emergency triage.
 - License file: I am not shipping a LICENSE file here. The code is mine to show. If you want to reuse chunks, ask me first. Kaggle and each Python library still have their own rules.
 
@@ -88,12 +87,8 @@ Notebook: install Jupyter if you need it (pip install notebook), then:
 
 Then commit, so Git stops tracking it while the file can still sit on your drive.
 
-## Thanks to (third-party)
-
 - Labels and text: Suicide Watch dataset on Kaggle (see link above)
 - Code libraries: Flask, NumPy, pandas, scikit-learn, XGBoost, NLTK, sklearn-genetic, matplotlib, seaborn, joblib, and whatever pip pulls in
 - UI skin: stock HTML/CSS/JS under static/ from the template pack I started from
 
-If something in the readme does not match what you see in the code, the code wins. I tweak things sometimes. Still stuck? Email me at the address in Quick facts above.
 
-Sai Subodh
