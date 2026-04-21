@@ -1,0 +1,5 @@
+# Suicide Watch — public dataset on Kaggle (not shipped in this repo).
+# Download the CSV locally; follow Kaggle’s rules for that dataset.
+# Code: Sai Subodh
+
+https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch

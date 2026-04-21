@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local data (never push)
+.env
+*.db
+signup.db
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Kaggle CSV ~160MB — GitHub max 100MB per file (download locally; see README)
+Dataset/Suicide_Detection.csv
+
+# Thesis Word source (optional on your machine only)
+A Suicidal Ideation Detection Framework on Social Media Using Machine Learning and Genetic Algorithms.docx
+
+# Full written report — keep locally; do not push to GitHub (large / personal choice)
+Final_Project_Report.pdf
+
+# Generated model cache (recreated when you run the app / notebook)
+model/*.npy
+model/*.pkl
+
+# User uploads (sample kept)
+static/uploads/*
+!static/uploads/.gitkeep
+!static/uploads/testData.csv
